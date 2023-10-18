@@ -1,7 +1,5 @@
 # Flowers 102
 
-[Code](https://colab.research.google.com/drive/1mFvs_XDLI06dZC26fb1EjPN7KKgWagXQ?usp=sharing)
-
 ## Data Loading
 
 In this section, we will go through the process of loading the Flowers 102 dataset, preparing the data for analysis, and visualizing a sample image from the dataset.
